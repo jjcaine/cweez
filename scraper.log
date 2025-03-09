@@ -1,0 +1,895 @@
+2025-03-08 23:10:42,336 - basketball_scraper - INFO - Connected to MongoDB
+2025-03-08 23:10:42,336 - basketball_scraper - INFO - Starting full NCAA data scrape
+2025-03-08 23:10:42,336 - basketball_scraper - INFO - Fetching NCAA leagues
+2025-03-08 23:10:42,606 - basketball_scraper - INFO - API calls remaining: 97
+2025-03-08 23:10:43,616 - basketball_scraper - INFO - Processed league: NCAA
+2025-03-08 23:10:43,618 - basketball_scraper - INFO - Fetched 1 NCAA leagues
+2025-03-08 23:10:43,618 - basketball_scraper - INFO - Processing NCAA for season 2023-2024
+2025-03-08 23:10:43,618 - basketball_scraper - INFO - Fetching teams for league 116, season 2023-2024
+2025-03-08 23:10:43,818 - basketball_scraper - INFO - API calls remaining: 96
+2025-03-08 23:10:45,264 - basketball_scraper - INFO - Fetched 711 teams for league 116, season 2023-2024
+2025-03-08 23:10:45,436 - basketball_scraper - INFO - Fetching players for team 1803, season 2023-2024
+2025-03-08 23:10:45,739 - basketball_scraper - INFO - API calls remaining: 95
+2025-03-08 23:10:46,741 - basketball_scraper - INFO - Fetched 0 players for team 1803, season 2023-2024
+2025-03-08 23:10:46,742 - basketball_scraper - INFO - Fetching players for team 2371, season 2023-2024
+2025-03-08 23:10:47,057 - basketball_scraper - INFO - API calls remaining: 94
+2025-03-08 23:10:48,062 - basketball_scraper - INFO - Fetched 0 players for team 2371, season 2023-2024
+2025-03-08 23:10:48,062 - basketball_scraper - INFO - Fetching players for team 1804, season 2023-2024
+2025-03-08 23:10:48,369 - basketball_scraper - INFO - API calls remaining: 93
+2025-03-08 23:10:49,371 - basketball_scraper - INFO - Fetched 0 players for team 1804, season 2023-2024
+2025-03-08 23:10:49,373 - basketball_scraper - INFO - Fetching players for team 1805, season 2023-2024
+2025-03-08 23:10:49,654 - basketball_scraper - INFO - API calls remaining: 92
+2025-03-08 23:10:50,657 - basketball_scraper - INFO - Fetched 0 players for team 1805, season 2023-2024
+2025-03-08 23:10:50,658 - basketball_scraper - INFO - Fetching players for team 176, season 2023-2024
+2025-03-08 23:10:50,961 - basketball_scraper - INFO - API calls remaining: 91
+2025-03-08 23:10:51,966 - basketball_scraper - INFO - Fetched 0 players for team 176, season 2023-2024
+2025-03-08 23:10:51,967 - basketball_scraper - INFO - Fetching players for team 1806, season 2023-2024
+2025-03-08 23:10:52,260 - basketball_scraper - INFO - API calls remaining: 90
+2025-03-08 23:10:53,263 - basketball_scraper - INFO - Fetched 0 players for team 1806, season 2023-2024
+2025-03-08 23:10:53,263 - basketball_scraper - INFO - Fetching players for team 1807, season 2023-2024
+2025-03-08 23:10:53,553 - basketball_scraper - INFO - API calls remaining: 89
+2025-03-08 23:10:54,558 - basketball_scraper - INFO - Fetched 0 players for team 1807, season 2023-2024
+2025-03-08 23:10:54,558 - basketball_scraper - INFO - Fetching players for team 1808, season 2023-2024
+2025-03-08 23:10:54,861 - basketball_scraper - INFO - API calls remaining: 88
+2025-03-08 23:10:55,866 - basketball_scraper - INFO - Fetched 0 players for team 1808, season 2023-2024
+2025-03-08 23:10:55,867 - basketball_scraper - INFO - Fetching players for team 5702, season 2023-2024
+2025-03-08 23:10:56,117 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:56,118 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:56,118 - basketball_scraper - ERROR - Failed to fetch players for team 5702, season 2023-2024
+2025-03-08 23:10:56,119 - basketball_scraper - INFO - Fetching players for team 1809, season 2023-2024
+2025-03-08 23:10:56,608 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:56,608 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:56,608 - basketball_scraper - ERROR - Failed to fetch players for team 1809, season 2023-2024
+2025-03-08 23:10:56,609 - basketball_scraper - INFO - Fetching players for team 1810, season 2023-2024
+2025-03-08 23:10:56,963 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:56,963 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:56,963 - basketball_scraper - ERROR - Failed to fetch players for team 1810, season 2023-2024
+2025-03-08 23:10:56,964 - basketball_scraper - INFO - Fetching players for team 1811, season 2023-2024
+2025-03-08 23:10:57,174 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:57,174 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:57,174 - basketball_scraper - ERROR - Failed to fetch players for team 1811, season 2023-2024
+2025-03-08 23:10:57,174 - basketball_scraper - INFO - Fetching players for team 5706, season 2023-2024
+2025-03-08 23:10:57,645 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:57,645 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:57,646 - basketball_scraper - ERROR - Failed to fetch players for team 5706, season 2023-2024
+2025-03-08 23:10:57,646 - basketball_scraper - INFO - Fetching players for team 6193, season 2023-2024
+2025-03-08 23:10:57,944 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:57,944 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:57,944 - basketball_scraper - ERROR - Failed to fetch players for team 6193, season 2023-2024
+2025-03-08 23:10:57,945 - basketball_scraper - INFO - Fetching players for team 6276, season 2023-2024
+2025-03-08 23:10:58,194 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:58,195 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:58,195 - basketball_scraper - ERROR - Failed to fetch players for team 6276, season 2023-2024
+2025-03-08 23:10:58,195 - basketball_scraper - INFO - Fetching players for team 1813, season 2023-2024
+2025-03-08 23:10:58,683 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:58,683 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:58,684 - basketball_scraper - ERROR - Failed to fetch players for team 1813, season 2023-2024
+2025-03-08 23:10:58,684 - basketball_scraper - INFO - Fetching players for team 1814, season 2023-2024
+2025-03-08 23:10:58,993 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:58,993 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:58,993 - basketball_scraper - ERROR - Failed to fetch players for team 1814, season 2023-2024
+2025-03-08 23:10:58,993 - basketball_scraper - INFO - Fetching players for team 5707, season 2023-2024
+2025-03-08 23:10:59,253 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:59,253 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:59,254 - basketball_scraper - ERROR - Failed to fetch players for team 5707, season 2023-2024
+2025-03-08 23:10:59,254 - basketball_scraper - INFO - Fetching players for team 1815, season 2023-2024
+2025-03-08 23:10:59,514 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:59,515 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:59,515 - basketball_scraper - ERROR - Failed to fetch players for team 1815, season 2023-2024
+2025-03-08 23:10:59,515 - basketball_scraper - INFO - Fetching players for team 1816, season 2023-2024
+2025-03-08 23:10:59,716 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:59,717 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:59,717 - basketball_scraper - ERROR - Failed to fetch players for team 1816, season 2023-2024
+2025-03-08 23:10:59,718 - basketball_scraper - INFO - Fetching players for team 177, season 2023-2024
+2025-03-08 23:10:59,930 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:10:59,931 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:10:59,931 - basketball_scraper - ERROR - Failed to fetch players for team 177, season 2023-2024
+2025-03-08 23:10:59,931 - basketball_scraper - INFO - Fetching players for team 3347, season 2023-2024
+2025-03-08 23:11:00,338 - basketball_scraper - INFO - API calls remaining: 97
+2025-03-08 23:11:01,341 - basketball_scraper - INFO - Fetched 0 players for team 3347, season 2023-2024
+2025-03-08 23:11:01,341 - basketball_scraper - INFO - Fetching players for team 1817, season 2023-2024
+2025-03-08 23:11:01,627 - basketball_scraper - INFO - API calls remaining: 96
+2025-03-08 23:11:02,630 - basketball_scraper - INFO - Fetched 0 players for team 1817, season 2023-2024
+2025-03-08 23:11:02,630 - basketball_scraper - INFO - Fetching players for team 6194, season 2023-2024
+2025-03-08 23:11:02,939 - basketball_scraper - INFO - API calls remaining: 95
+2025-03-08 23:11:03,945 - basketball_scraper - INFO - Fetched 0 players for team 6194, season 2023-2024
+2025-03-08 23:11:03,946 - basketball_scraper - INFO - Fetching players for team 1818, season 2023-2024
+2025-03-08 23:11:04,236 - basketball_scraper - INFO - API calls remaining: 94
+2025-03-08 23:11:05,241 - basketball_scraper - INFO - Fetched 0 players for team 1818, season 2023-2024
+2025-03-08 23:11:05,242 - basketball_scraper - INFO - Fetching players for team 1819, season 2023-2024
+2025-03-08 23:11:05,558 - basketball_scraper - INFO - API calls remaining: 93
+2025-03-08 23:11:06,560 - basketball_scraper - INFO - Fetched 0 players for team 1819, season 2023-2024
+2025-03-08 23:11:06,560 - basketball_scraper - INFO - Fetching players for team 1820, season 2023-2024
+2025-03-08 23:11:06,856 - basketball_scraper - INFO - API calls remaining: 92
+2025-03-08 23:11:07,858 - basketball_scraper - INFO - Fetched 0 players for team 1820, season 2023-2024
+2025-03-08 23:11:07,858 - basketball_scraper - INFO - Fetching players for team 3220, season 2023-2024
+2025-03-08 23:11:08,199 - basketball_scraper - INFO - API calls remaining: 91
+2025-03-08 23:11:09,205 - basketball_scraper - INFO - Fetched 0 players for team 3220, season 2023-2024
+2025-03-08 23:11:09,206 - basketball_scraper - INFO - Fetching players for team 1822, season 2023-2024
+2025-03-08 23:11:09,506 - basketball_scraper - INFO - API calls remaining: 90
+2025-03-08 23:11:10,512 - basketball_scraper - INFO - Fetched 0 players for team 1822, season 2023-2024
+2025-03-08 23:11:10,513 - basketball_scraper - INFO - Fetching players for team 5708, season 2023-2024
+2025-03-08 23:11:10,829 - basketball_scraper - INFO - API calls remaining: 89
+2025-03-08 23:11:11,833 - basketball_scraper - INFO - Fetched 0 players for team 5708, season 2023-2024
+2025-03-08 23:11:11,834 - basketball_scraper - INFO - Fetching players for team 1823, season 2023-2024
+2025-03-08 23:11:12,109 - basketball_scraper - INFO - API calls remaining: 88
+2025-03-08 23:11:13,113 - basketball_scraper - INFO - Fetched 0 players for team 1823, season 2023-2024
+2025-03-08 23:11:13,114 - basketball_scraper - INFO - Fetching players for team 5709, season 2023-2024
+2025-03-08 23:11:13,340 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:13,340 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:13,341 - basketball_scraper - ERROR - Failed to fetch players for team 5709, season 2023-2024
+2025-03-08 23:11:13,341 - basketball_scraper - INFO - Fetching players for team 1700, season 2023-2024
+2025-03-08 23:11:13,544 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:13,544 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:13,544 - basketball_scraper - ERROR - Failed to fetch players for team 1700, season 2023-2024
+2025-03-08 23:11:13,544 - basketball_scraper - INFO - Fetching players for team 1824, season 2023-2024
+2025-03-08 23:11:13,923 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:13,923 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:13,924 - basketball_scraper - ERROR - Failed to fetch players for team 1824, season 2023-2024
+2025-03-08 23:11:13,924 - basketball_scraper - INFO - Fetching players for team 6195, season 2023-2024
+2025-03-08 23:11:14,197 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:14,197 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:14,198 - basketball_scraper - ERROR - Failed to fetch players for team 6195, season 2023-2024
+2025-03-08 23:11:14,198 - basketball_scraper - INFO - Fetching players for team 1825, season 2023-2024
+2025-03-08 23:11:14,439 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:14,439 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:14,439 - basketball_scraper - ERROR - Failed to fetch players for team 1825, season 2023-2024
+2025-03-08 23:11:14,440 - basketball_scraper - INFO - Fetching players for team 6196, season 2023-2024
+2025-03-08 23:11:14,719 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:14,719 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:14,719 - basketball_scraper - ERROR - Failed to fetch players for team 6196, season 2023-2024
+2025-03-08 23:11:14,720 - basketball_scraper - INFO - Fetching players for team 2357, season 2023-2024
+2025-03-08 23:11:14,936 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:14,936 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:14,937 - basketball_scraper - ERROR - Failed to fetch players for team 2357, season 2023-2024
+2025-03-08 23:11:14,937 - basketball_scraper - INFO - Fetching players for team 2358, season 2023-2024
+2025-03-08 23:11:15,242 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:15,242 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:15,242 - basketball_scraper - ERROR - Failed to fetch players for team 2358, season 2023-2024
+2025-03-08 23:11:15,242 - basketball_scraper - INFO - Fetching players for team 5711, season 2023-2024
+2025-03-08 23:11:15,467 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:15,467 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:15,468 - basketball_scraper - ERROR - Failed to fetch players for team 5711, season 2023-2024
+2025-03-08 23:11:15,469 - basketball_scraper - INFO - Fetching players for team 1826, season 2023-2024
+2025-03-08 23:11:15,768 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:15,768 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:15,768 - basketball_scraper - ERROR - Failed to fetch players for team 1826, season 2023-2024
+2025-03-08 23:11:15,768 - basketball_scraper - INFO - Fetching players for team 5712, season 2023-2024
+2025-03-08 23:11:15,971 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:15,971 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:15,971 - basketball_scraper - ERROR - Failed to fetch players for team 5712, season 2023-2024
+2025-03-08 23:11:15,972 - basketball_scraper - INFO - Fetching players for team 6197, season 2023-2024
+2025-03-08 23:11:16,179 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:16,180 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:16,180 - basketball_scraper - ERROR - Failed to fetch players for team 6197, season 2023-2024
+2025-03-08 23:11:16,181 - basketball_scraper - INFO - Fetching players for team 6198, season 2023-2024
+2025-03-08 23:11:16,454 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:16,454 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:16,455 - basketball_scraper - ERROR - Failed to fetch players for team 6198, season 2023-2024
+2025-03-08 23:11:16,455 - basketball_scraper - INFO - Fetching players for team 1827, season 2023-2024
+2025-03-08 23:11:16,649 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:16,649 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:16,649 - basketball_scraper - ERROR - Failed to fetch players for team 1827, season 2023-2024
+2025-03-08 23:11:16,650 - basketball_scraper - INFO - Fetching players for team 5713, season 2023-2024
+2025-03-08 23:11:16,957 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:16,957 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:16,957 - basketball_scraper - ERROR - Failed to fetch players for team 5713, season 2023-2024
+2025-03-08 23:11:16,957 - basketball_scraper - INFO - Fetching players for team 5714, season 2023-2024
+2025-03-08 23:11:17,179 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:17,180 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:17,180 - basketball_scraper - ERROR - Failed to fetch players for team 5714, season 2023-2024
+2025-03-08 23:11:17,180 - basketball_scraper - INFO - Fetching players for team 1829, season 2023-2024
+2025-03-08 23:11:17,480 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:17,480 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:17,481 - basketball_scraper - ERROR - Failed to fetch players for team 1829, season 2023-2024
+2025-03-08 23:11:17,481 - basketball_scraper - INFO - Fetching players for team 1830, season 2023-2024
+2025-03-08 23:11:17,696 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:17,697 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:17,697 - basketball_scraper - ERROR - Failed to fetch players for team 1830, season 2023-2024
+2025-03-08 23:11:17,697 - basketball_scraper - INFO - Fetching players for team 1831, season 2023-2024
+2025-03-08 23:11:17,897 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:17,897 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:17,897 - basketball_scraper - ERROR - Failed to fetch players for team 1831, season 2023-2024
+2025-03-08 23:11:17,897 - basketball_scraper - INFO - Fetching players for team 5715, season 2023-2024
+2025-03-08 23:11:18,110 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:18,110 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:18,111 - basketball_scraper - ERROR - Failed to fetch players for team 5715, season 2023-2024
+2025-03-08 23:11:18,111 - basketball_scraper - INFO - Fetching players for team 6199, season 2023-2024
+2025-03-08 23:11:18,387 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:18,388 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:18,388 - basketball_scraper - ERROR - Failed to fetch players for team 6199, season 2023-2024
+2025-03-08 23:11:18,389 - basketball_scraper - INFO - Fetching players for team 1832, season 2023-2024
+2025-03-08 23:11:18,585 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:18,585 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:18,586 - basketball_scraper - ERROR - Failed to fetch players for team 1832, season 2023-2024
+2025-03-08 23:11:18,587 - basketball_scraper - INFO - Fetching players for team 1833, season 2023-2024
+2025-03-08 23:11:18,923 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:18,923 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:18,924 - basketball_scraper - ERROR - Failed to fetch players for team 1833, season 2023-2024
+2025-03-08 23:11:18,924 - basketball_scraper - INFO - Fetching players for team 5717, season 2023-2024
+2025-03-08 23:11:19,133 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:19,134 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:19,135 - basketball_scraper - ERROR - Failed to fetch players for team 5717, season 2023-2024
+2025-03-08 23:11:19,135 - basketball_scraper - INFO - Fetching players for team 1835, season 2023-2024
+2025-03-08 23:11:19,337 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:19,337 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:19,338 - basketball_scraper - ERROR - Failed to fetch players for team 1835, season 2023-2024
+2025-03-08 23:11:19,340 - basketball_scraper - INFO - Fetching players for team 1836, season 2023-2024
+2025-03-08 23:11:19,626 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:19,626 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:19,627 - basketball_scraper - ERROR - Failed to fetch players for team 1836, season 2023-2024
+2025-03-08 23:11:19,627 - basketball_scraper - INFO - Fetching players for team 1837, season 2023-2024
+2025-03-08 23:11:19,855 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:19,855 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:19,856 - basketball_scraper - ERROR - Failed to fetch players for team 1837, season 2023-2024
+2025-03-08 23:11:19,856 - basketball_scraper - INFO - Fetching players for team 2373, season 2023-2024
+2025-03-08 23:11:20,126 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:20,126 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:20,126 - basketball_scraper - ERROR - Failed to fetch players for team 2373, season 2023-2024
+2025-03-08 23:11:20,126 - basketball_scraper - INFO - Fetching players for team 1838, season 2023-2024
+2025-03-08 23:11:20,333 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:20,334 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:20,335 - basketball_scraper - ERROR - Failed to fetch players for team 1838, season 2023-2024
+2025-03-08 23:11:20,335 - basketball_scraper - INFO - Fetching players for team 2413, season 2023-2024
+2025-03-08 23:11:20,627 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:20,627 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:20,627 - basketball_scraper - ERROR - Failed to fetch players for team 2413, season 2023-2024
+2025-03-08 23:11:20,628 - basketball_scraper - INFO - Fetching players for team 1839, season 2023-2024
+2025-03-08 23:11:20,822 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:20,822 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:20,823 - basketball_scraper - ERROR - Failed to fetch players for team 1839, season 2023-2024
+2025-03-08 23:11:20,823 - basketball_scraper - INFO - Fetching players for team 717, season 2023-2024
+2025-03-08 23:11:21,028 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:21,029 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:21,029 - basketball_scraper - ERROR - Failed to fetch players for team 717, season 2023-2024
+2025-03-08 23:11:21,029 - basketball_scraper - INFO - Fetching players for team 1840, season 2023-2024
+2025-03-08 23:11:21,218 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:21,219 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:21,220 - basketball_scraper - ERROR - Failed to fetch players for team 1840, season 2023-2024
+2025-03-08 23:11:21,221 - basketball_scraper - INFO - Fetching players for team 2374, season 2023-2024
+2025-03-08 23:11:21,408 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:21,409 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:21,409 - basketball_scraper - ERROR - Failed to fetch players for team 2374, season 2023-2024
+2025-03-08 23:11:21,409 - basketball_scraper - INFO - Fetching players for team 5719, season 2023-2024
+2025-03-08 23:11:21,696 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:21,696 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:21,696 - basketball_scraper - ERROR - Failed to fetch players for team 5719, season 2023-2024
+2025-03-08 23:11:21,697 - basketball_scraper - INFO - Fetching players for team 1841, season 2023-2024
+2025-03-08 23:11:21,902 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:21,902 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:21,902 - basketball_scraper - ERROR - Failed to fetch players for team 1841, season 2023-2024
+2025-03-08 23:11:21,903 - basketball_scraper - INFO - Fetching players for team 6200, season 2023-2024
+2025-03-08 23:11:22,204 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:22,204 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:22,205 - basketball_scraper - ERROR - Failed to fetch players for team 6200, season 2023-2024
+2025-03-08 23:11:22,205 - basketball_scraper - INFO - Fetching players for team 208, season 2023-2024
+2025-03-08 23:11:22,415 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:22,416 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:22,416 - basketball_scraper - ERROR - Failed to fetch players for team 208, season 2023-2024
+2025-03-08 23:11:22,416 - basketball_scraper - INFO - Fetching players for team 1842, season 2023-2024
+2025-03-08 23:11:22,726 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:22,726 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:22,727 - basketball_scraper - ERROR - Failed to fetch players for team 1842, season 2023-2024
+2025-03-08 23:11:22,727 - basketball_scraper - INFO - Fetching players for team 1843, season 2023-2024
+2025-03-08 23:11:22,943 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:22,943 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:22,943 - basketball_scraper - ERROR - Failed to fetch players for team 1843, season 2023-2024
+2025-03-08 23:11:22,944 - basketball_scraper - INFO - Fetching players for team 3225, season 2023-2024
+2025-03-08 23:11:23,245 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:23,246 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:23,246 - basketball_scraper - ERROR - Failed to fetch players for team 3225, season 2023-2024
+2025-03-08 23:11:23,246 - basketball_scraper - INFO - Fetching players for team 1844, season 2023-2024
+2025-03-08 23:11:23,451 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:23,451 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:23,452 - basketball_scraper - ERROR - Failed to fetch players for team 1844, season 2023-2024
+2025-03-08 23:11:23,452 - basketball_scraper - INFO - Fetching players for team 1845, season 2023-2024
+2025-03-08 23:11:23,647 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:23,648 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:23,648 - basketball_scraper - ERROR - Failed to fetch players for team 1845, season 2023-2024
+2025-03-08 23:11:23,649 - basketball_scraper - INFO - Fetching players for team 3226, season 2023-2024
+2025-03-08 23:11:23,850 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:23,850 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:23,851 - basketball_scraper - ERROR - Failed to fetch players for team 3226, season 2023-2024
+2025-03-08 23:11:23,852 - basketball_scraper - INFO - Fetching players for team 178, season 2023-2024
+2025-03-08 23:11:24,056 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:24,056 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:24,057 - basketball_scraper - ERROR - Failed to fetch players for team 178, season 2023-2024
+2025-03-08 23:11:24,057 - basketball_scraper - INFO - Fetching players for team 5723, season 2023-2024
+2025-03-08 23:11:24,335 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:24,335 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:24,335 - basketball_scraper - ERROR - Failed to fetch players for team 5723, season 2023-2024
+2025-03-08 23:11:24,336 - basketball_scraper - INFO - Fetching players for team 1847, season 2023-2024
+2025-03-08 23:11:24,562 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:24,562 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:24,562 - basketball_scraper - ERROR - Failed to fetch players for team 1847, season 2023-2024
+2025-03-08 23:11:24,563 - basketball_scraper - INFO - Fetching players for team 1850, season 2023-2024
+2025-03-08 23:11:24,848 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:24,848 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:24,849 - basketball_scraper - ERROR - Failed to fetch players for team 1850, season 2023-2024
+2025-03-08 23:11:24,849 - basketball_scraper - INFO - Fetching players for team 210, season 2023-2024
+2025-03-08 23:11:25,061 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:25,062 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:25,062 - basketball_scraper - ERROR - Failed to fetch players for team 210, season 2023-2024
+2025-03-08 23:11:25,062 - basketball_scraper - INFO - Fetching players for team 5725, season 2023-2024
+2025-03-08 23:11:25,345 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:25,346 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:25,346 - basketball_scraper - ERROR - Failed to fetch players for team 5725, season 2023-2024
+2025-03-08 23:11:25,346 - basketball_scraper - INFO - Fetching players for team 1851, season 2023-2024
+2025-03-08 23:11:25,589 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:25,589 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:25,589 - basketball_scraper - ERROR - Failed to fetch players for team 1851, season 2023-2024
+2025-03-08 23:11:25,589 - basketball_scraper - INFO - Fetching players for team 3229, season 2023-2024
+2025-03-08 23:11:25,853 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:25,854 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:25,855 - basketball_scraper - ERROR - Failed to fetch players for team 3229, season 2023-2024
+2025-03-08 23:11:25,855 - basketball_scraper - INFO - Fetching players for team 5726, season 2023-2024
+2025-03-08 23:11:26,073 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:26,074 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:26,074 - basketball_scraper - ERROR - Failed to fetch players for team 5726, season 2023-2024
+2025-03-08 23:11:26,075 - basketball_scraper - INFO - Fetching players for team 179, season 2023-2024
+2025-03-08 23:11:26,258 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:26,258 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:26,258 - basketball_scraper - ERROR - Failed to fetch players for team 179, season 2023-2024
+2025-03-08 23:11:26,258 - basketball_scraper - INFO - Fetching players for team 1852, season 2023-2024
+2025-03-08 23:11:26,463 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:26,463 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:26,463 - basketball_scraper - ERROR - Failed to fetch players for team 1852, season 2023-2024
+2025-03-08 23:11:26,464 - basketball_scraper - INFO - Fetching players for team 1489, season 2023-2024
+2025-03-08 23:11:26,665 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:26,665 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:26,665 - basketball_scraper - ERROR - Failed to fetch players for team 1489, season 2023-2024
+2025-03-08 23:11:26,666 - basketball_scraper - INFO - Fetching players for team 6203, season 2023-2024
+2025-03-08 23:11:26,952 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:26,953 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:26,953 - basketball_scraper - ERROR - Failed to fetch players for team 6203, season 2023-2024
+2025-03-08 23:11:26,953 - basketball_scraper - INFO - Fetching players for team 2375, season 2023-2024
+2025-03-08 23:11:27,153 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:27,154 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:27,154 - basketball_scraper - ERROR - Failed to fetch players for team 2375, season 2023-2024
+2025-03-08 23:11:27,154 - basketball_scraper - INFO - Fetching players for team 3366, season 2023-2024
+2025-03-08 23:11:27,443 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:27,444 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:27,444 - basketball_scraper - ERROR - Failed to fetch players for team 3366, season 2023-2024
+2025-03-08 23:11:27,445 - basketball_scraper - INFO - Fetching players for team 6201, season 2023-2024
+2025-03-08 23:11:27,636 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:27,636 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:27,637 - basketball_scraper - ERROR - Failed to fetch players for team 6201, season 2023-2024
+2025-03-08 23:11:27,637 - basketball_scraper - INFO - Fetching players for team 1490, season 2023-2024
+2025-03-08 23:11:27,836 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:27,836 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:27,837 - basketball_scraper - ERROR - Failed to fetch players for team 1490, season 2023-2024
+2025-03-08 23:11:27,837 - basketball_scraper - INFO - Fetching players for team 1856, season 2023-2024
+2025-03-08 23:11:28,034 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:28,034 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:28,035 - basketball_scraper - ERROR - Failed to fetch players for team 1856, season 2023-2024
+2025-03-08 23:11:28,035 - basketball_scraper - INFO - Fetching players for team 211, season 2023-2024
+2025-03-08 23:11:28,243 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:28,243 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:28,243 - basketball_scraper - ERROR - Failed to fetch players for team 211, season 2023-2024
+2025-03-08 23:11:28,243 - basketball_scraper - INFO - Fetching players for team 1858, season 2023-2024
+2025-03-08 23:11:28,534 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:28,534 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:28,547 - basketball_scraper - ERROR - Failed to fetch players for team 1858, season 2023-2024
+2025-03-08 23:11:28,547 - basketball_scraper - INFO - Fetching players for team 5731, season 2023-2024
+2025-03-08 23:11:28,769 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:28,769 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:28,770 - basketball_scraper - ERROR - Failed to fetch players for team 5731, season 2023-2024
+2025-03-08 23:11:28,770 - basketball_scraper - INFO - Fetching players for team 5732, season 2023-2024
+2025-03-08 23:11:29,061 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:29,061 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:29,062 - basketball_scraper - ERROR - Failed to fetch players for team 5732, season 2023-2024
+2025-03-08 23:11:29,062 - basketball_scraper - INFO - Fetching players for team 1861, season 2023-2024
+2025-03-08 23:11:29,269 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:29,269 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:29,270 - basketball_scraper - ERROR - Failed to fetch players for team 1861, season 2023-2024
+2025-03-08 23:11:29,270 - basketball_scraper - INFO - Fetching players for team 226, season 2023-2024
+2025-03-08 23:11:29,560 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:29,560 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:29,560 - basketball_scraper - ERROR - Failed to fetch players for team 226, season 2023-2024
+2025-03-08 23:11:29,560 - basketball_scraper - INFO - Fetching players for team 3429, season 2023-2024
+2025-03-08 23:11:29,801 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:29,801 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:29,801 - basketball_scraper - ERROR - Failed to fetch players for team 3429, season 2023-2024
+2025-03-08 23:11:29,801 - basketball_scraper - INFO - Fetching players for team 5734, season 2023-2024
+2025-03-08 23:11:30,088 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:30,088 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:30,088 - basketball_scraper - ERROR - Failed to fetch players for team 5734, season 2023-2024
+2025-03-08 23:11:30,088 - basketball_scraper - INFO - Fetching players for team 6204, season 2023-2024
+2025-03-08 23:11:30,292 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:30,292 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:30,292 - basketball_scraper - ERROR - Failed to fetch players for team 6204, season 2023-2024
+2025-03-08 23:11:30,292 - basketball_scraper - INFO - Fetching players for team 1863, season 2023-2024
+2025-03-08 23:11:30,585 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:30,585 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:30,585 - basketball_scraper - ERROR - Failed to fetch players for team 1863, season 2023-2024
+2025-03-08 23:11:30,585 - basketball_scraper - INFO - Fetching players for team 1864, season 2023-2024
+2025-03-08 23:11:30,778 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:30,779 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:30,782 - basketball_scraper - ERROR - Failed to fetch players for team 1864, season 2023-2024
+2025-03-08 23:11:30,784 - basketball_scraper - INFO - Fetching players for team 1865, season 2023-2024
+2025-03-08 23:11:31,155 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:31,155 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:31,155 - basketball_scraper - ERROR - Failed to fetch players for team 1865, season 2023-2024
+2025-03-08 23:11:31,155 - basketball_scraper - INFO - Fetching players for team 1866, season 2023-2024
+2025-03-08 23:11:31,335 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:31,336 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:31,336 - basketball_scraper - ERROR - Failed to fetch players for team 1866, season 2023-2024
+2025-03-08 23:11:31,336 - basketball_scraper - INFO - Fetching players for team 6205, season 2023-2024
+2025-03-08 23:11:31,620 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:31,621 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:31,621 - basketball_scraper - ERROR - Failed to fetch players for team 6205, season 2023-2024
+2025-03-08 23:11:31,622 - basketball_scraper - INFO - Fetching players for team 6206, season 2023-2024
+2025-03-08 23:11:31,842 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:31,842 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:31,842 - basketball_scraper - ERROR - Failed to fetch players for team 6206, season 2023-2024
+2025-03-08 23:11:31,843 - basketball_scraper - INFO - Fetching players for team 6207, season 2023-2024
+2025-03-08 23:11:32,049 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:32,050 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:32,050 - basketball_scraper - ERROR - Failed to fetch players for team 6207, season 2023-2024
+2025-03-08 23:11:32,050 - basketball_scraper - INFO - Fetching players for team 180, season 2023-2024
+2025-03-08 23:11:32,279 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:32,279 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:32,280 - basketball_scraper - ERROR - Failed to fetch players for team 180, season 2023-2024
+2025-03-08 23:11:32,280 - basketball_scraper - INFO - Fetching players for team 1867, season 2023-2024
+2025-03-08 23:11:32,544 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:32,544 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:32,545 - basketball_scraper - ERROR - Failed to fetch players for team 1867, season 2023-2024
+2025-03-08 23:11:32,545 - basketball_scraper - INFO - Fetching players for team 5738, season 2023-2024
+2025-03-08 23:11:32,768 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:32,768 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:32,769 - basketball_scraper - ERROR - Failed to fetch players for team 5738, season 2023-2024
+2025-03-08 23:11:32,769 - basketball_scraper - INFO - Fetching players for team 212, season 2023-2024
+2025-03-08 23:11:32,956 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:32,956 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:32,957 - basketball_scraper - ERROR - Failed to fetch players for team 212, season 2023-2024
+2025-03-08 23:11:32,957 - basketball_scraper - INFO - Fetching players for team 5739, season 2023-2024
+2025-03-08 23:11:33,252 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:33,253 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:33,253 - basketball_scraper - ERROR - Failed to fetch players for team 5739, season 2023-2024
+2025-03-08 23:11:33,253 - basketball_scraper - INFO - Fetching players for team 2498, season 2023-2024
+2025-03-08 23:11:33,465 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:33,465 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:33,466 - basketball_scraper - ERROR - Failed to fetch players for team 2498, season 2023-2024
+2025-03-08 23:11:33,466 - basketball_scraper - INFO - Fetching players for team 1868, season 2023-2024
+2025-03-08 23:11:33,753 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:33,753 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:33,753 - basketball_scraper - ERROR - Failed to fetch players for team 1868, season 2023-2024
+2025-03-08 23:11:33,754 - basketball_scraper - INFO - Fetching players for team 5740, season 2023-2024
+2025-03-08 23:11:33,948 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:33,948 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:33,949 - basketball_scraper - ERROR - Failed to fetch players for team 5740, season 2023-2024
+2025-03-08 23:11:33,949 - basketball_scraper - INFO - Fetching players for team 1491, season 2023-2024
+2025-03-08 23:11:34,140 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:34,141 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:34,141 - basketball_scraper - ERROR - Failed to fetch players for team 1491, season 2023-2024
+2025-03-08 23:11:34,142 - basketball_scraper - INFO - Fetching players for team 181, season 2023-2024
+2025-03-08 23:11:34,340 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:34,340 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:34,341 - basketball_scraper - ERROR - Failed to fetch players for team 181, season 2023-2024
+2025-03-08 23:11:34,341 - basketball_scraper - INFO - Fetching players for team 1869, season 2023-2024
+2025-03-08 23:11:34,642 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:34,642 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:34,642 - basketball_scraper - ERROR - Failed to fetch players for team 1869, season 2023-2024
+2025-03-08 23:11:34,643 - basketball_scraper - INFO - Fetching players for team 3232, season 2023-2024
+2025-03-08 23:11:34,832 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:34,832 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:34,833 - basketball_scraper - ERROR - Failed to fetch players for team 3232, season 2023-2024
+2025-03-08 23:11:34,834 - basketball_scraper - INFO - Fetching players for team 1870, season 2023-2024
+2025-03-08 23:11:35,016 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:35,017 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:35,017 - basketball_scraper - ERROR - Failed to fetch players for team 1870, season 2023-2024
+2025-03-08 23:11:35,017 - basketball_scraper - INFO - Fetching players for team 2477, season 2023-2024
+2025-03-08 23:11:35,293 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:35,293 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:35,294 - basketball_scraper - ERROR - Failed to fetch players for team 2477, season 2023-2024
+2025-03-08 23:11:35,294 - basketball_scraper - INFO - Fetching players for team 1871, season 2023-2024
+2025-03-08 23:11:35,489 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:35,489 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:35,489 - basketball_scraper - ERROR - Failed to fetch players for team 1871, season 2023-2024
+2025-03-08 23:11:35,490 - basketball_scraper - INFO - Fetching players for team 1872, season 2023-2024
+2025-03-08 23:11:35,689 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:35,690 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:35,690 - basketball_scraper - ERROR - Failed to fetch players for team 1872, season 2023-2024
+2025-03-08 23:11:35,690 - basketball_scraper - INFO - Fetching players for team 3233, season 2023-2024
+2025-03-08 23:11:35,897 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:35,897 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:35,898 - basketball_scraper - ERROR - Failed to fetch players for team 3233, season 2023-2024
+2025-03-08 23:11:35,898 - basketball_scraper - INFO - Fetching players for team 1878, season 2023-2024
+2025-03-08 23:11:36,214 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:36,214 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:36,215 - basketball_scraper - ERROR - Failed to fetch players for team 1878, season 2023-2024
+2025-03-08 23:11:36,215 - basketball_scraper - INFO - Fetching players for team 227, season 2023-2024
+2025-03-08 23:11:36,415 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:36,416 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:36,416 - basketball_scraper - ERROR - Failed to fetch players for team 227, season 2023-2024
+2025-03-08 23:11:36,417 - basketball_scraper - INFO - Fetching players for team 2378, season 2023-2024
+2025-03-08 23:11:36,621 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:36,621 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:36,622 - basketball_scraper - ERROR - Failed to fetch players for team 2378, season 2023-2024
+2025-03-08 23:11:36,622 - basketball_scraper - INFO - Fetching players for team 182, season 2023-2024
+2025-03-08 23:11:36,901 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:36,901 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:36,902 - basketball_scraper - ERROR - Failed to fetch players for team 182, season 2023-2024
+2025-03-08 23:11:36,902 - basketball_scraper - INFO - Fetching players for team 3234, season 2023-2024
+2025-03-08 23:11:37,109 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:37,109 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:37,110 - basketball_scraper - ERROR - Failed to fetch players for team 3234, season 2023-2024
+2025-03-08 23:11:37,110 - basketball_scraper - INFO - Fetching players for team 5720, season 2023-2024
+2025-03-08 23:11:37,396 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:37,396 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:37,396 - basketball_scraper - ERROR - Failed to fetch players for team 5720, season 2023-2024
+2025-03-08 23:11:37,397 - basketball_scraper - INFO - Fetching players for team 5721, season 2023-2024
+2025-03-08 23:11:37,585 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:37,585 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:37,586 - basketball_scraper - ERROR - Failed to fetch players for team 5721, season 2023-2024
+2025-03-08 23:11:37,586 - basketball_scraper - INFO - Fetching players for team 5722, season 2023-2024
+2025-03-08 23:11:37,813 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:37,813 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:37,814 - basketball_scraper - ERROR - Failed to fetch players for team 5722, season 2023-2024
+2025-03-08 23:11:37,814 - basketball_scraper - INFO - Fetching players for team 6202, season 2023-2024
+2025-03-08 23:11:38,035 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:38,035 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:38,035 - basketball_scraper - ERROR - Failed to fetch players for team 6202, season 2023-2024
+2025-03-08 23:11:38,036 - basketball_scraper - INFO - Fetching players for team 2414, season 2023-2024
+2025-03-08 23:11:38,316 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:38,317 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:38,317 - basketball_scraper - ERROR - Failed to fetch players for team 2414, season 2023-2024
+2025-03-08 23:11:38,318 - basketball_scraper - INFO - Fetching players for team 6209, season 2023-2024
+2025-03-08 23:11:38,552 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:38,552 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:38,552 - basketball_scraper - ERROR - Failed to fetch players for team 6209, season 2023-2024
+2025-03-08 23:11:38,552 - basketball_scraper - INFO - Fetching players for team 5741, season 2023-2024
+2025-03-08 23:11:38,834 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:38,834 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:38,834 - basketball_scraper - ERROR - Failed to fetch players for team 5741, season 2023-2024
+2025-03-08 23:11:38,834 - basketball_scraper - INFO - Fetching players for team 6210, season 2023-2024
+2025-03-08 23:11:39,041 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:39,041 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:39,041 - basketball_scraper - ERROR - Failed to fetch players for team 6210, season 2023-2024
+2025-03-08 23:11:39,041 - basketball_scraper - INFO - Fetching players for team 1882, season 2023-2024
+2025-03-08 23:11:39,240 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:39,240 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:39,241 - basketball_scraper - ERROR - Failed to fetch players for team 1882, season 2023-2024
+2025-03-08 23:11:39,241 - basketball_scraper - INFO - Fetching players for team 3380, season 2023-2024
+2025-03-08 23:11:39,523 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:39,523 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:39,523 - basketball_scraper - ERROR - Failed to fetch players for team 3380, season 2023-2024
+2025-03-08 23:11:39,523 - basketball_scraper - INFO - Fetching players for team 2478, season 2023-2024
+2025-03-08 23:11:39,716 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:39,716 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:39,717 - basketball_scraper - ERROR - Failed to fetch players for team 2478, season 2023-2024
+2025-03-08 23:11:39,717 - basketball_scraper - INFO - Fetching players for team 1883, season 2023-2024
+2025-03-08 23:11:39,920 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:39,920 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:39,921 - basketball_scraper - ERROR - Failed to fetch players for team 1883, season 2023-2024
+2025-03-08 23:11:39,921 - basketball_scraper - INFO - Fetching players for team 6211, season 2023-2024
+2025-03-08 23:11:40,125 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:40,125 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:40,125 - basketball_scraper - ERROR - Failed to fetch players for team 6211, season 2023-2024
+2025-03-08 23:11:40,125 - basketball_scraper - INFO - Fetching players for team 183, season 2023-2024
+2025-03-08 23:11:40,407 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:40,407 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:40,408 - basketball_scraper - ERROR - Failed to fetch players for team 183, season 2023-2024
+2025-03-08 23:11:40,408 - basketball_scraper - INFO - Fetching players for team 184, season 2023-2024
+2025-03-08 23:11:40,604 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:40,604 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:40,604 - basketball_scraper - ERROR - Failed to fetch players for team 184, season 2023-2024
+2025-03-08 23:11:40,604 - basketball_scraper - INFO - Fetching players for team 5745, season 2023-2024
+2025-03-08 23:11:40,930 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:40,930 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:40,931 - basketball_scraper - ERROR - Failed to fetch players for team 5745, season 2023-2024
+2025-03-08 23:11:40,931 - basketball_scraper - INFO - Fetching players for team 1884, season 2023-2024
+2025-03-08 23:11:41,133 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:41,133 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:41,134 - basketball_scraper - ERROR - Failed to fetch players for team 1884, season 2023-2024
+2025-03-08 23:11:41,134 - basketball_scraper - INFO - Fetching players for team 1885, season 2023-2024
+2025-03-08 23:11:41,330 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:41,330 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:41,331 - basketball_scraper - ERROR - Failed to fetch players for team 1885, season 2023-2024
+2025-03-08 23:11:41,331 - basketball_scraper - INFO - Fetching players for team 6212, season 2023-2024
+2025-03-08 23:11:41,620 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:41,620 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:41,621 - basketball_scraper - ERROR - Failed to fetch players for team 6212, season 2023-2024
+2025-03-08 23:11:41,621 - basketball_scraper - INFO - Fetching players for team 6213, season 2023-2024
+2025-03-08 23:11:41,817 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:41,818 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:41,818 - basketball_scraper - ERROR - Failed to fetch players for team 6213, season 2023-2024
+2025-03-08 23:11:41,818 - basketball_scraper - INFO - Fetching players for team 1886, season 2023-2024
+2025-03-08 23:11:42,100 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:42,100 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:42,101 - basketball_scraper - ERROR - Failed to fetch players for team 1886, season 2023-2024
+2025-03-08 23:11:42,101 - basketball_scraper - INFO - Fetching players for team 213, season 2023-2024
+2025-03-08 23:11:42,288 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:42,288 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:42,289 - basketball_scraper - ERROR - Failed to fetch players for team 213, season 2023-2024
+2025-03-08 23:11:42,289 - basketball_scraper - INFO - Fetching players for team 3235, season 2023-2024
+2025-03-08 23:11:42,505 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:42,506 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:42,506 - basketball_scraper - ERROR - Failed to fetch players for team 3235, season 2023-2024
+2025-03-08 23:11:42,506 - basketball_scraper - INFO - Fetching players for team 1887, season 2023-2024
+2025-03-08 23:11:42,742 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:42,742 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:42,742 - basketball_scraper - ERROR - Failed to fetch players for team 1887, season 2023-2024
+2025-03-08 23:11:42,742 - basketball_scraper - INFO - Fetching players for team 3236, season 2023-2024
+2025-03-08 23:11:43,030 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:43,030 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:43,030 - basketball_scraper - ERROR - Failed to fetch players for team 3236, season 2023-2024
+2025-03-08 23:11:43,031 - basketball_scraper - INFO - Fetching players for team 1888, season 2023-2024
+2025-03-08 23:11:43,259 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:43,261 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:43,262 - basketball_scraper - ERROR - Failed to fetch players for team 1888, season 2023-2024
+2025-03-08 23:11:43,262 - basketball_scraper - INFO - Fetching players for team 228, season 2023-2024
+2025-03-08 23:11:43,442 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:43,442 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:43,443 - basketball_scraper - ERROR - Failed to fetch players for team 228, season 2023-2024
+2025-03-08 23:11:43,443 - basketball_scraper - INFO - Fetching players for team 1889, season 2023-2024
+2025-03-08 23:11:43,731 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:43,731 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:43,731 - basketball_scraper - ERROR - Failed to fetch players for team 1889, season 2023-2024
+2025-03-08 23:11:43,732 - basketball_scraper - INFO - Fetching players for team 1890, season 2023-2024
+2025-03-08 23:11:43,958 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:43,958 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:43,959 - basketball_scraper - ERROR - Failed to fetch players for team 1890, season 2023-2024
+2025-03-08 23:11:43,959 - basketball_scraper - INFO - Fetching players for team 1891, season 2023-2024
+2025-03-08 23:11:44,262 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:44,262 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:44,262 - basketball_scraper - ERROR - Failed to fetch players for team 1891, season 2023-2024
+2025-03-08 23:11:44,262 - basketball_scraper - INFO - Fetching players for team 1892, season 2023-2024
+2025-03-08 23:11:44,475 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:44,475 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:44,475 - basketball_scraper - ERROR - Failed to fetch players for team 1892, season 2023-2024
+2025-03-08 23:11:44,475 - basketball_scraper - INFO - Fetching players for team 5747, season 2023-2024
+2025-03-08 23:11:44,771 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:44,771 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:44,771 - basketball_scraper - ERROR - Failed to fetch players for team 5747, season 2023-2024
+2025-03-08 23:11:44,771 - basketball_scraper - INFO - Fetching players for team 5748, season 2023-2024
+2025-03-08 23:11:44,971 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:44,971 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:44,971 - basketball_scraper - ERROR - Failed to fetch players for team 5748, season 2023-2024
+2025-03-08 23:11:44,972 - basketball_scraper - INFO - Fetching players for team 1894, season 2023-2024
+2025-03-08 23:11:45,274 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:45,274 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:45,275 - basketball_scraper - ERROR - Failed to fetch players for team 1894, season 2023-2024
+2025-03-08 23:11:45,275 - basketball_scraper - INFO - Fetching players for team 1895, season 2023-2024
+2025-03-08 23:11:45,482 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:45,482 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:45,483 - basketball_scraper - ERROR - Failed to fetch players for team 1895, season 2023-2024
+2025-03-08 23:11:45,483 - basketball_scraper - INFO - Fetching players for team 3241, season 2023-2024
+2025-03-08 23:11:45,679 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:45,679 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:45,679 - basketball_scraper - ERROR - Failed to fetch players for team 3241, season 2023-2024
+2025-03-08 23:11:45,680 - basketball_scraper - INFO - Fetching players for team 1896, season 2023-2024
+2025-03-08 23:11:45,906 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:45,906 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:45,907 - basketball_scraper - ERROR - Failed to fetch players for team 1896, season 2023-2024
+2025-03-08 23:11:45,907 - basketball_scraper - INFO - Fetching players for team 6214, season 2023-2024
+2025-03-08 23:11:46,175 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:46,175 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:46,176 - basketball_scraper - ERROR - Failed to fetch players for team 6214, season 2023-2024
+2025-03-08 23:11:46,176 - basketball_scraper - INFO - Fetching players for team 1897, season 2023-2024
+2025-03-08 23:11:46,375 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:46,375 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:46,376 - basketball_scraper - ERROR - Failed to fetch players for team 1897, season 2023-2024
+2025-03-08 23:11:46,376 - basketball_scraper - INFO - Fetching players for team 1898, season 2023-2024
+2025-03-08 23:11:46,586 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:46,586 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:46,587 - basketball_scraper - ERROR - Failed to fetch players for team 1898, season 2023-2024
+2025-03-08 23:11:46,587 - basketball_scraper - INFO - Fetching players for team 2421, season 2023-2024
+2025-03-08 23:11:46,862 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:46,862 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:46,862 - basketball_scraper - ERROR - Failed to fetch players for team 2421, season 2023-2024
+2025-03-08 23:11:46,862 - basketball_scraper - INFO - Fetching players for team 6290, season 2023-2024
+2025-03-08 23:11:47,064 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:47,064 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:47,064 - basketball_scraper - ERROR - Failed to fetch players for team 6290, season 2023-2024
+2025-03-08 23:11:47,065 - basketball_scraper - INFO - Fetching players for team 6215, season 2023-2024
+2025-03-08 23:11:47,350 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:47,350 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:47,350 - basketball_scraper - ERROR - Failed to fetch players for team 6215, season 2023-2024
+2025-03-08 23:11:47,351 - basketball_scraper - INFO - Fetching players for team 1901, season 2023-2024
+2025-03-08 23:11:47,558 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:47,558 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:47,559 - basketball_scraper - ERROR - Failed to fetch players for team 1901, season 2023-2024
+2025-03-08 23:11:47,559 - basketball_scraper - INFO - Fetching players for team 3245, season 2023-2024
+2025-03-08 23:11:47,756 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:47,756 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:47,756 - basketball_scraper - ERROR - Failed to fetch players for team 3245, season 2023-2024
+2025-03-08 23:11:47,756 - basketball_scraper - INFO - Fetching players for team 3246, season 2023-2024
+2025-03-08 23:11:47,948 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:47,948 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:47,949 - basketball_scraper - ERROR - Failed to fetch players for team 3246, season 2023-2024
+2025-03-08 23:11:47,949 - basketball_scraper - INFO - Fetching players for team 1903, season 2023-2024
+2025-03-08 23:11:48,161 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:48,162 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:48,163 - basketball_scraper - ERROR - Failed to fetch players for team 1903, season 2023-2024
+2025-03-08 23:11:48,164 - basketball_scraper - INFO - Fetching players for team 1904, season 2023-2024
+2025-03-08 23:11:48,472 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:48,472 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:48,472 - basketball_scraper - ERROR - Failed to fetch players for team 1904, season 2023-2024
+2025-03-08 23:11:48,473 - basketball_scraper - INFO - Fetching players for team 1905, season 2023-2024
+2025-03-08 23:11:48,675 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:48,675 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:48,675 - basketball_scraper - ERROR - Failed to fetch players for team 1905, season 2023-2024
+2025-03-08 23:11:48,676 - basketball_scraper - INFO - Fetching players for team 3239, season 2023-2024
+2025-03-08 23:11:48,964 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:48,964 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:48,964 - basketball_scraper - ERROR - Failed to fetch players for team 3239, season 2023-2024
+2025-03-08 23:11:48,964 - basketball_scraper - INFO - Fetching players for team 1906, season 2023-2024
+2025-03-08 23:11:49,154 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:49,155 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:49,155 - basketball_scraper - ERROR - Failed to fetch players for team 1906, season 2023-2024
+2025-03-08 23:11:49,155 - basketball_scraper - INFO - Fetching players for team 1907, season 2023-2024
+2025-03-08 23:11:49,450 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:49,450 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:49,451 - basketball_scraper - ERROR - Failed to fetch players for team 1907, season 2023-2024
+2025-03-08 23:11:49,452 - basketball_scraper - INFO - Fetching players for team 5751, season 2023-2024
+2025-03-08 23:11:49,646 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:49,646 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:49,646 - basketball_scraper - ERROR - Failed to fetch players for team 5751, season 2023-2024
+2025-03-08 23:11:49,646 - basketball_scraper - INFO - Fetching players for team 6216, season 2023-2024
+2025-03-08 23:11:49,842 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:49,843 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:49,843 - basketball_scraper - ERROR - Failed to fetch players for team 6216, season 2023-2024
+2025-03-08 23:11:49,844 - basketball_scraper - INFO - Fetching players for team 1908, season 2023-2024
+2025-03-08 23:11:50,045 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:50,045 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:50,046 - basketball_scraper - ERROR - Failed to fetch players for team 1908, season 2023-2024
+2025-03-08 23:11:50,046 - basketball_scraper - INFO - Fetching players for team 5753, season 2023-2024
+2025-03-08 23:11:50,231 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:50,231 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:50,231 - basketball_scraper - ERROR - Failed to fetch players for team 5753, season 2023-2024
+2025-03-08 23:11:50,232 - basketball_scraper - INFO - Fetching players for team 3249, season 2023-2024
+2025-03-08 23:11:50,511 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:50,511 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:50,512 - basketball_scraper - ERROR - Failed to fetch players for team 3249, season 2023-2024
+2025-03-08 23:11:50,512 - basketball_scraper - INFO - Fetching players for team 1909, season 2023-2024
+2025-03-08 23:11:50,726 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:50,727 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:50,727 - basketball_scraper - ERROR - Failed to fetch players for team 1909, season 2023-2024
+2025-03-08 23:11:50,727 - basketball_scraper - INFO - Fetching players for team 1910, season 2023-2024
+2025-03-08 23:11:50,903 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:50,903 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:50,903 - basketball_scraper - ERROR - Failed to fetch players for team 1910, season 2023-2024
+2025-03-08 23:11:50,903 - basketball_scraper - INFO - Fetching players for team 230, season 2023-2024
+2025-03-08 23:11:51,105 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:51,105 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:51,105 - basketball_scraper - ERROR - Failed to fetch players for team 230, season 2023-2024
+2025-03-08 23:11:51,105 - basketball_scraper - INFO - Fetching players for team 1912, season 2023-2024
+2025-03-08 23:11:51,316 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:51,317 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:51,317 - basketball_scraper - ERROR - Failed to fetch players for team 1912, season 2023-2024
+2025-03-08 23:11:51,317 - basketball_scraper - INFO - Fetching players for team 5628, season 2023-2024
+2025-03-08 23:11:51,595 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:51,596 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:51,596 - basketball_scraper - ERROR - Failed to fetch players for team 5628, season 2023-2024
+2025-03-08 23:11:51,597 - basketball_scraper - INFO - Fetching players for team 1913, season 2023-2024
+2025-03-08 23:11:51,805 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:51,805 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:51,805 - basketball_scraper - ERROR - Failed to fetch players for team 1913, season 2023-2024
+2025-03-08 23:11:51,806 - basketball_scraper - INFO - Fetching players for team 1914, season 2023-2024
+2025-03-08 23:11:52,076 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:52,076 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:52,077 - basketball_scraper - ERROR - Failed to fetch players for team 1914, season 2023-2024
+2025-03-08 23:11:52,077 - basketball_scraper - INFO - Fetching players for team 1916, season 2023-2024
+2025-03-08 23:11:52,263 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:52,263 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:52,264 - basketball_scraper - ERROR - Failed to fetch players for team 1916, season 2023-2024
+2025-03-08 23:11:52,264 - basketball_scraper - INFO - Fetching players for team 2423, season 2023-2024
+2025-03-08 23:11:52,467 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:52,468 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:52,468 - basketball_scraper - ERROR - Failed to fetch players for team 2423, season 2023-2024
+2025-03-08 23:11:52,468 - basketball_scraper - INFO - Fetching players for team 3250, season 2023-2024
+2025-03-08 23:11:52,665 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:52,665 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:52,665 - basketball_scraper - ERROR - Failed to fetch players for team 3250, season 2023-2024
+2025-03-08 23:11:52,666 - basketball_scraper - INFO - Fetching players for team 257, season 2023-2024
+2025-03-08 23:11:52,862 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:52,862 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:52,863 - basketball_scraper - ERROR - Failed to fetch players for team 257, season 2023-2024
+2025-03-08 23:11:52,863 - basketball_scraper - INFO - Fetching players for team 5754, season 2023-2024
+2025-03-08 23:11:53,152 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:53,152 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:53,152 - basketball_scraper - ERROR - Failed to fetch players for team 5754, season 2023-2024
+2025-03-08 23:11:53,152 - basketball_scraper - INFO - Fetching players for team 3251, season 2023-2024
+2025-03-08 23:11:53,339 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:53,339 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:53,340 - basketball_scraper - ERROR - Failed to fetch players for team 3251, season 2023-2024
+2025-03-08 23:11:53,340 - basketball_scraper - INFO - Fetching players for team 2221, season 2023-2024
+2025-03-08 23:11:53,537 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:53,538 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:53,538 - basketball_scraper - ERROR - Failed to fetch players for team 2221, season 2023-2024
+2025-03-08 23:11:53,538 - basketball_scraper - INFO - Fetching players for team 1919, season 2023-2024
+2025-03-08 23:11:53,745 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:53,745 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:53,746 - basketball_scraper - ERROR - Failed to fetch players for team 1919, season 2023-2024
+2025-03-08 23:11:53,746 - basketball_scraper - INFO - Fetching players for team 6217, season 2023-2024
+2025-03-08 23:11:54,040 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:54,040 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:54,041 - basketball_scraper - ERROR - Failed to fetch players for team 6217, season 2023-2024
+2025-03-08 23:11:54,041 - basketball_scraper - INFO - Fetching players for team 185, season 2023-2024
+2025-03-08 23:11:54,244 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:54,244 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:54,244 - basketball_scraper - ERROR - Failed to fetch players for team 185, season 2023-2024
+2025-03-08 23:11:54,244 - basketball_scraper - INFO - Fetching players for team 2248, season 2023-2024
+2025-03-08 23:11:54,444 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:54,444 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:54,445 - basketball_scraper - ERROR - Failed to fetch players for team 2248, season 2023-2024
+2025-03-08 23:11:54,445 - basketball_scraper - INFO - Fetching players for team 5755, season 2023-2024
+2025-03-08 23:11:54,745 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:54,745 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:54,745 - basketball_scraper - ERROR - Failed to fetch players for team 5755, season 2023-2024
+2025-03-08 23:11:54,745 - basketball_scraper - INFO - Fetching players for team 3252, season 2023-2024
+2025-03-08 23:11:54,957 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:54,958 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:54,959 - basketball_scraper - ERROR - Failed to fetch players for team 3252, season 2023-2024
+2025-03-08 23:11:54,959 - basketball_scraper - INFO - Fetching players for team 1499, season 2023-2024
+2025-03-08 23:11:55,253 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:55,253 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:55,253 - basketball_scraper - ERROR - Failed to fetch players for team 1499, season 2023-2024
+2025-03-08 23:11:55,254 - basketball_scraper - INFO - Fetching players for team 1500, season 2023-2024
+2025-03-08 23:11:55,469 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:55,469 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:55,470 - basketball_scraper - ERROR - Failed to fetch players for team 1500, season 2023-2024
+2025-03-08 23:11:55,470 - basketball_scraper - INFO - Fetching players for team 186, season 2023-2024
+2025-03-08 23:11:55,743 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:55,743 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:55,744 - basketball_scraper - ERROR - Failed to fetch players for team 186, season 2023-2024
+2025-03-08 23:11:55,744 - basketball_scraper - INFO - Fetching players for team 1924, season 2023-2024
+2025-03-08 23:11:55,949 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:55,949 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:55,950 - basketball_scraper - ERROR - Failed to fetch players for team 1924, season 2023-2024
+2025-03-08 23:11:55,950 - basketball_scraper - INFO - Fetching players for team 1501, season 2023-2024
+2025-03-08 23:11:56,148 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:56,149 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:56,149 - basketball_scraper - ERROR - Failed to fetch players for team 1501, season 2023-2024
+2025-03-08 23:11:56,150 - basketball_scraper - INFO - Fetching players for team 1925, season 2023-2024
+2025-03-08 23:11:56,355 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:56,355 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:56,356 - basketball_scraper - ERROR - Failed to fetch players for team 1925, season 2023-2024
+2025-03-08 23:11:56,356 - basketball_scraper - INFO - Fetching players for team 1926, season 2023-2024
+2025-03-08 23:11:56,558 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:56,558 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:56,558 - basketball_scraper - ERROR - Failed to fetch players for team 1926, season 2023-2024
+2025-03-08 23:11:56,559 - basketball_scraper - INFO - Fetching players for team 6218, season 2023-2024
+2025-03-08 23:11:56,803 - basketball_scraper - INFO - API calls remaining: 99
+2025-03-08 23:11:56,803 - basketball_scraper - ERROR - API returned errors: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}
+2025-03-08 23:11:56,803 - basketball_scraper - ERROR - Failed to fetch players for team 6218, season 2023-2024
+2025-03-08 23:11:56,804 - basketball_scraper - INFO - Fetching players for team 1927, season 2023-2024
+2025-03-08 23:14:32,794 - basketball_scraper - INFO - Connected to MongoDB
+2025-03-08 23:14:32,794 - basketball_scraper - INFO - Starting full NCAA data scrape
+2025-03-08 23:14:32,794 - basketball_scraper - INFO - Fetching NCAA leagues
+2025-03-08 23:14:33,088 - basketball_scraper - INFO - API calls remaining: 77
+2025-03-08 23:14:34,596 - basketball_scraper - INFO - Processed league: NCAA
+2025-03-08 23:14:34,597 - basketball_scraper - INFO - Fetched 1 NCAA leagues
+2025-03-08 23:14:34,597 - basketball_scraper - INFO - Processing NCAA for season 2023-2024
+2025-03-08 23:14:34,597 - basketball_scraper - INFO - Fetching teams for league 116, season 2023-2024
+2025-03-08 23:14:34,804 - basketball_scraper - INFO - API calls remaining: 76
+2025-03-08 23:14:36,718 - basketball_scraper - INFO - Fetched 711 teams for league 116, season 2023-2024
+2025-03-08 23:14:36,718 - basketball_scraper - INFO - Limiting to 3 teams for testing
+2025-03-08 23:14:36,730 - basketball_scraper - INFO - Fetching players for team 1803, season 2023-2024
+2025-03-08 23:14:36,982 - basketball_scraper - INFO - API calls remaining: 75
+2025-03-08 23:14:38,488 - basketball_scraper - INFO - Fetched 0 players for team 1803, season 2023-2024
+2025-03-08 23:14:40,493 - basketball_scraper - INFO - Fetching players for team 2371, season 2023-2024
+2025-03-08 23:14:40,760 - basketball_scraper - INFO - API calls remaining: 74
+2025-03-08 23:14:42,264 - basketball_scraper - INFO - Fetched 0 players for team 2371, season 2023-2024
+2025-03-08 23:14:44,270 - basketball_scraper - INFO - Fetching players for team 1804, season 2023-2024
+2025-03-08 23:14:44,616 - basketball_scraper - INFO - API calls remaining: 73
+2025-03-08 23:14:46,122 - basketball_scraper - INFO - Fetched 0 players for team 1804, season 2023-2024
+2025-03-08 23:14:48,125 - basketball_scraper - INFO - Completed processing NCAA for season 2023-2024
+2025-03-08 23:14:48,126 - basketball_scraper - INFO - Processing NCAA for season 2022-2023
+2025-03-08 23:14:48,126 - basketball_scraper - INFO - Fetching teams for league 116, season 2022-2023
+2025-03-08 23:14:48,687 - basketball_scraper - INFO - API calls remaining: 72
+2025-03-08 23:14:50,834 - basketball_scraper - INFO - Fetched 699 teams for league 116, season 2022-2023
+2025-03-08 23:14:50,834 - basketball_scraper - INFO - Limiting to 3 teams for testing
+2025-03-08 23:14:50,834 - basketball_scraper - INFO - Fetching players for team 1803, season 2022-2023
+2025-03-08 23:14:51,305 - basketball_scraper - INFO - API calls remaining: 71
+2025-03-08 23:14:52,810 - basketball_scraper - INFO - Fetched 0 players for team 1803, season 2022-2023
+2025-03-08 23:14:54,813 - basketball_scraper - INFO - Fetching players for team 1804, season 2022-2023
+2025-03-08 23:14:55,185 - basketball_scraper - INFO - API calls remaining: 70
+2025-03-08 23:14:56,690 - basketball_scraper - INFO - Fetched 0 players for team 1804, season 2022-2023
+2025-03-08 23:14:58,695 - basketball_scraper - INFO - Fetching players for team 1805, season 2022-2023
+2025-03-08 23:14:59,136 - basketball_scraper - INFO - API calls remaining: 69
+2025-03-08 23:15:00,644 - basketball_scraper - INFO - Fetched 0 players for team 1805, season 2022-2023
+2025-03-08 23:15:02,649 - basketball_scraper - INFO - Completed processing NCAA for season 2022-2023
+2025-03-08 23:15:02,649 - basketball_scraper - INFO - Completed full NCAA data scrape
+2025-03-08 23:15:02,649 - basketball_scraper - INFO - Data scraping completed successfully

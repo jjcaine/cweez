@@ -1,0 +1,114 @@
+[
+  {
+    "_id": {
+      "$oid": "67cd14c3979c136b79b331e1"
+    },
+    "league_id": 116,
+    "country": "USA",
+    "country_code": "US",
+    "logo": "https://media.api-sports.io/basketball/leagues/116.png",
+    "name": "NCAA",
+    "seasons": [
+      {
+        "season": "2019-2020",
+        "start": "2019-11-22",
+        "end": "2020-03-14",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2020-2021",
+        "start": "2020-11-25",
+        "end": "2021-04-06",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2021-2022",
+        "start": "2021-11-09",
+        "end": "2022-04-05",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2022-2023",
+        "start": "2022-11-07",
+        "end": "2023-04-04",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2023-2024",
+        "start": "2023-11-06",
+        "end": "2024-04-09",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": true,
+          "players": false,
+          "odds": false
+        }
+      },
+      {
+        "season": "2024-2025",
+        "start": "2024-11-04",
+        "end": "2025-03-11",
+        "coverage": {
+          "games": {
+            "statistics": {
+              "teams": false,
+              "players": false
+            }
+          },
+          "standings": false,
+          "players": false,
+          "odds": true
+        }
+      }
+    ],
+    "type": "League",
+    "updated_at": {
+      "$date": "2025-03-08T23:14:34.594Z"
+    }
+  }
+]
